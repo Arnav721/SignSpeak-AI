@@ -1,12 +1,12 @@
 # 🤟 SignSpeak-AI — Indian Sign Language Alphabet Recognition
 
-An AI/ML project that recognizes Indian Sign Language (ISL) alphabet signs from images using a Convolutional Neural Network (CNN).
+**An AI/ML project that recognizes Indian Sign Language (ISL) alphabet signs from images using a Convolutional Neural Network (CNN).**
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://signspeak-ai-nj9bi9qfgznqccbpzjxh92.streamlit.app/)
 
 ## 🚀 Live Demo
 
-Try the application: [SignSpeak-AI on Streamlit](https://signspeak-ai-nj9bi9qfgznqccbpzjxh92.streamlit.app/)
+**Try the application:** [SignSpeak-AI on Streamlit](https://signspeak-ai-nj9bi9qfgznqccbpzjxh92.streamlit.app/)
 
 Upload an image of a hand sign to see the predicted alphabet, the model's estimated confidence score, and its top three predictions.
 
@@ -16,17 +16,17 @@ SignSpeak-AI is a beginner-level AI/ML project exploring how deep learning and c
 
 The application uses a trained CNN model to classify an uploaded hand-sign image into one of the alphabet classes it has learned. A simple Streamlit interface makes it possible to interact with the model directly through a web browser.
 
-## Project details
+**Project details**
 
-- Domain: Artificial Intelligence / Machine Learning
-- Task: Image classification
-- Sign language: Indian Sign Language (ISL)
-- Model: Convolutional Neural Network (CNN)
-- Input: JPG, JPEG, or PNG image
-- Output: Predicted alphabet, confidence score, and top-three predictions
-- Deployment: Streamlit Community Cloud
+- **Domain:** Artificial Intelligence / Machine Learning
+- **Task:** Image classification
+- **Sign language:** Indian Sign Language (ISL)
+- **Model:** Convolutional Neural Network (CNN)
+- **Input:** JPG, JPEG, or PNG image
+- **Output:** Predicted alphabet, confidence score, and top-three predictions
+- **Deployment:** Streamlit Community Cloud
 
-> Scope: This project recognizes individual alphabet signs from images. It does not translate continuous signing, complete words, or sentences.
+> **Scope:** This project recognizes individual alphabet signs from images. It does not translate continuous signing, complete words, or sentences.
 
 ## ✨ Features
 
@@ -69,14 +69,14 @@ The project uses a Convolutional Neural Network (CNN), a deep-learning architect
 
 The model includes:
 
-- Convolutional layers: Learn visual features from hand images.
-- Max-pooling layers: Reduce the spatial dimensions of feature maps.
-- Flatten layer: Converts extracted features into a one-dimensional representation.
-- Dense layer: Learns combinations of the extracted features.
-- Dropout: Helps reduce overfitting during training.
-- Softmax output layer: Produces scores across the supported classes.
+- **Convolutional layers:** Learn visual features from hand images.
+- **Max-pooling layers:** Reduce the spatial dimensions of feature maps.
+- **Flatten layer:** Converts extracted features into a one-dimensional representation.
+- **Dense layer:** Learns combinations of the extracted features.
+- **Dropout:** Helps reduce overfitting during training.
+- **Softmax output layer:** Produces scores across the supported classes.
 
-Training configuration
+**Training configuration**
 
 | Setting | Value |
 |---|---|
@@ -92,12 +92,12 @@ These settings describe the current training configuration; actual performance s
 
 ## 🛠️ Technologies Used
 
-- Python — Main programming language
-- TensorFlow and Keras — Building and training the CNN
-- Streamlit — Web application interface
-- NumPy — Numerical operations
-- Pillow — Image processing
-- Git and GitHub — Version control and project hosting
+- **Python** — Main programming language
+- **TensorFlow and Keras** — Building and training the CNN
+- **Streamlit** — Web application interface
+- **NumPy** — Numerical operations
+- **Pillow** — Image processing
+- **Git and GitHub** — Version control and project hosting
 
 ## 📂 Project Structure
 
@@ -219,11 +219,11 @@ Through this project, I explored:
 
 ## 👨‍💻 Author
 
-Arnav Bhardwaj  
+**Arnav Bhardwaj**  
 B.Tech — Artificial Intelligence and Machine Learning
 
-- GitHub: [Arnav721](https://github.com/Arnav721)
-- Live Project: [SignSpeak-AI](https://signspeak-ai-nj9bi9qfgznqccbpzjxh92.streamlit.app/)
+- **GitHub:** [Arnav721](https://github.com/Arnav721)
+- **Live Project:** [SignSpeak-AI](https://signspeak-ai-nj9bi9qfgznqccbpzjxh92.streamlit.app/)
 
 ## 📄 Dataset and Licensing
 
